@@ -1,2 +1,2 @@
 # flixVal
-Thi is indeed the BEST time to LEARN $$
+This is indeed the BEST time to LEARN !
